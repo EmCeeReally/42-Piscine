@@ -15,7 +15,8 @@
 void	ft_print_numbers(void)
 {
 	char	c;
-
+//helloWerld
+	c = 0;
 	c = '0';
 	while (c <= '9')
 	{
